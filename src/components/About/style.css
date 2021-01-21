@@ -1,0 +1,26 @@
+#ABOUT{
+    height:100% ;
+}
+.col-6{
+    font-size: 1.25rem;
+    font-weight: 300;
+    font-weight: 400;
+}
+p{
+    padding: 30px;
+}
+.title{
+    padding-top: 60px;
+    font-weight: 700;
+    font-size: 50px;
+}
+a.btn.btn-xl.btn-outline-light {
+    width: 220px;
+}
+.btn{
+    font-size: 20px;
+    border-radius: 10px;
+}
+.fas{
+    padding: 10px;
+}

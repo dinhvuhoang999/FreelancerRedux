@@ -1,0 +1,40 @@
+input#name {
+    border: none;
+        font-size: 29px;
+}
+input#email {
+    border: none;
+    font-size: 29px;
+}
+input#email {
+    border: none;
+    font-size: 29px;
+}   
+input#phone {
+    border: none;
+    font-size: 29px;
+}
+textarea#message {
+     border: none;
+     font-size: 29px;
+}
+p.help-block.text-danger {
+    padding-top: 0;
+}
+.help-block{
+    border-bottom: 1px solid #0000001f;
+}
+label{
+    display: none;
+}
+div#btnSend {
+    float: left;
+}
+button#sendMessageButton {
+    background: #1abc9c;
+}
+.character {
+    padding: 6px;
+    color: red;
+    float: left;
+}

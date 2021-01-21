@@ -1,0 +1,21 @@
+footer.footer.text-center {
+  background-color: #36364a;
+}
+.copyright.py-4.text-center.text-white {
+  background-color: #20213a;
+}
+.col-lg-4{
+  padding-top: 7.5%;
+   padding-bottom: 7.5%;
+}
+.text-uppercase{
+  padding-bottom: 5%;
+}
+.f{
+  padding-top: 0;
+  margin: 5px;
+  border: 2px solid white;
+  border-radius: 35px;
+  padding: 15px;  
+  font-size: 30px;
+}
